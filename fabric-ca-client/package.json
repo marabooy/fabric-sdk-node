@@ -13,7 +13,7 @@
   "dependencies": {
     "bn.js": "^4.11.3",
     "elliptic": "^6.2.3",
-    "fs-extra": ">=0.30.0 <0.31.0",
+    "fs-extra": ">=1.0.0",
     "js-sha3": "^0.5.1",
     "jsrsasign": "^6.2.2",
     "jssha": "^2.1.0",
